@@ -1,4 +1,3 @@
-
 const translations = {
     ar: {
         // القائمة والترحيب
@@ -79,7 +78,6 @@ const translations = {
 
     }
 };
-
 function changeLang(lang) {
     const data = translations[lang];
 
